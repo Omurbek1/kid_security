@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Norint nufotografuoti vaiką, reikalinga prieiga prie kameros";
+NSLocationWhenInUseUsageDescription = "Prieiga prie vietovės reikalinga norint nustatyti Namo geozoną";
+NSMicrophoneUsageDescription = "Reikalinga prieiga prie mikrofono, norint siųsti balso pranešimus";
+NSPhotoLibraryAddUsageDescription = "Norint išsaugoti vaiko nuotrauką, reikalinga prieiga prie galerijos";
+NSPhotoLibraryUsageDescription = "Norint gauti vaiko nuotrauką, reikalinga prieiga prie galerijos";
+NSUserTrackingUsageDescription = "Jūsų duomenys bus naudojami reklamos efektyvumui įvertinti";

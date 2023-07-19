@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "“Kid Security”需要访问相机才能给孩子拍照";
+NSLocationWhenInUseUsageDescription = "“Kid Security”需要访问该位置以定义地理围栏“家”";
+NSMicrophoneUsageDescription = "“Kid Security”需要使用麦克风才能发送语音消息";
+NSPhotoLibraryAddUsageDescription = "“Kid Security”需要访问相簿才能保存儿童照片";
+NSPhotoLibraryUsageDescription = "“Kid Security”需要访问相簿才能获得儿童的照片";
+NSUserTrackingUsageDescription = "您的数据将用于衡量广告效率";

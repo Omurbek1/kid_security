@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Bērns nospieda SOS</string>
+  <string name="abc_go_to_map">Iet uz karti</string>
+  <string name="abc_push_connect_child">Pieslēdziet bērnu</string>
+  <string name="abc_push_to_know_where_he">Lai zinātu, kur viņš atrodas, un</string>
+  <string name="abc_push_in_case_of_danger">briesmu gadījumā nākt palīgā.</string>
+  <string name="abc_push_action_later">Vēlāk</string>
+  <string name="abc_push_action_now">Pieslēgt</string>
+</resources>

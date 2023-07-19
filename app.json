@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "Kid security",
+    "slug": "Siriuskids",
+    "privacy": "unlisted",
+    "version": "1.345",
+    "sdkVersion": "40.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["assets/**/*", "img/**/*"],
+    "scheme": "kidsecurity.page.link",
+    "isDetached": true,
+    "notification": { "icon": "./android/app/src/main/res/drawable-xxxhdpi/ic_notification.png" },
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "userInterfaceStyle": "light",
+      "supportsTablet": true,
+      "bundleIdentifier": "kz.sirius.siriuskids"
+    },
+    "android": {
+      "userInterfaceStyle": "dark",
+      "package": "kz.sirius.kidssecurity",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD1vLoZ3sEaexP-lYNAwah38GHeNL0apoI"
+        }
+      },
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "https",
+              "host": "kidsecurity",
+              "pathPrefix": "/*"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Copilul a tastat butonul SOS</string>
+  <string name="abc_go_to_map">Accesați harta</string>
+  <string name="abc_push_connect_child">Conectați copilul</string>
+  <string name="abc_push_to_know_where_he">Pentru a cunoaște unde se află și</string>
+  <string name="abc_push_in_case_of_danger">în caz de pericol să interveniți.</string>
+  <string name="abc_push_action_later">Mai târziu</string>
+  <string name="abc_push_action_now">Conectare</string>
+</resources>

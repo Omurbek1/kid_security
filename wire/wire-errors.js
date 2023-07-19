@@ -1,0 +1,25 @@
+   const WireError = {
+        'INTERNAL_SERVER_ERROR': 4001,
+        'AUTH_REQUIRED': 4002,
+        'AUTH_FAILED': 4003,
+        'SERVER_SHUTDOWN': 4004,
+        'TIMEOUT': 4005,
+        'INTERNAL_SERVER_ERROR': 9000,
+        'INVALID_REQUEST': 9001,
+        'ACCESS_DENIED': 9002,
+        'INVALID_PIN_CODE': 8001,
+        'NOT_SUPPORTED': 8001,
+        'IMEI_REQUIRED': 8002,
+        'INVALID_CONTROL_SETUP': 8003,
+        'INVALID_PARAMETERS': 8004,
+        'NOT_FOUND': 8005,
+        'INVITE_ALREADY_SENT': 8006,
+        'NOT_ALLOWED': 8007,
+        'INVALID_SKYTAG': 7000,
+        'USER_ALREADY_IN_HUB': 7001,
+        'USER_NOT_IN_HUB': 7002,
+        'ALREADY_SUBSCRIBED': 7003,
+        'ALREADY_UNSUBSCRIBED': 7004
+    }
+
+    export default WireError;

@@ -1,0 +1,1 @@
+expo publish --release-channel="base-$1" --target bare

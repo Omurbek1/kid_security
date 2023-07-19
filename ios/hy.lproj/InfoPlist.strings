@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Երեխայի նկարը ստանալու համար Kid Security պարտադիր է տեսախցիկ ստանալու համար";
+NSLocationWhenInUseUsageDescription = "Տուն գեոտարածքը որոշելու համար Kid Security կարիք ունի գտնվելու վայրին";
+NSMicrophoneUsageDescription = "Kid Security պարտադիր է Ձայնային հաղորդագրություններ ուղարկելու համար";
+NSPhotoLibraryAddUsageDescription = "Kid Security պարտադիր է երեխայի լուսանկարը պահպանելու համար ";
+NSPhotoLibraryUsageDescription = "Kid Security պարտադիր է երեխայի լուսանկարը ստՆալու համար ";
+NSUserTrackingUsageDescription = "Ձեր տվյալները կօգտագործվեն գովազդի արդյունավետությունը չափելու համար";

@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security बच्चेबच्चे की तस्वीर लेने के लिए कैमरे तक पहुंच आवश्यक है";
+NSLocationWhenInUseUsageDescription = "जियोफेंस होम का निर्धारण करने के लिए Kid Security को स्थान तक पहुंच की आवश्यकता है";
+NSMicrophoneUsageDescription = "Kid Security ध्वनि संदेश भेजने के लिए माइक्रोफ़ोन एक्सेस आवश्यक है";
+NSPhotoLibraryAddUsageDescription = "Kid Security बच्चे की तस्वीर को बचाने के लिए गैलरी तक पहुंच आवश्यक है";
+NSPhotoLibraryUsageDescription = "Kid Security बच्चे की तस्वीर प्राप्त करने के लिए गैलरी तक पहुंच आवश्यक है";
+NSUserTrackingUsageDescription = "आपके डेटा का उपयोग विज्ञापन दक्षता को मापने के लिए किया जाएगा";

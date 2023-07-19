@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">ბავშვმა დააჭირა SOS</string>
+  <string name="abc_go_to_map">გადადით რუკაზე</string>
+  <string name="abc_push_connect_child">შეაერთეთ ბავშვი</string>
+  <string name="abc_push_to_know_where_he">რომ იცოდეთ სად არის, და</string>
+  <string name="abc_push_in_case_of_danger">საფრთხის შემთხვევაში დასახმარებლად.</string>
+  <string name="abc_push_action_later">მოგვიანებით</string>
+  <string name="abc_push_action_now">შეერთება</string>
+</resources>

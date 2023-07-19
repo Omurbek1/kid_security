@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security solicită accesul la cameră pentru a obține fotografia copilului";
+NSLocationWhenInUseUsageDescription = "Kid Security solicită accesul la locație pentru a determina locația geografică Casa";
+NSMicrophoneUsageDescription = "Kid Security solicită accesul la microfon pentru a expedia mesaje vocale";
+NSPhotoLibraryAddUsageDescription = "Kid Security solicită accesul la galerie pentru a salva fotografia copilului";
+NSPhotoLibraryUsageDescription = "Kid Security solicită accesul la galerie pentru a obține fotografia copilului";
+NSUserTrackingUsageDescription = "Datele dvs. vor fi folosite pentru a măsura eficiența publicității";

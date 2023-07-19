@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security farzandingiz suratini olish uchun kameraga kira olishi kerak";
+NSLocationWhenInUseUsageDescription = "Kid Security Uyni aniqlay olishi uchun joylashish joyiga kira olishi kerak";
+NSMicrophoneUsageDescription = "Ovozli xabarlar yuborish uchun Kid Security mikrofonga kira olishi kerak";
+NSPhotoLibraryAddUsageDescription = "Farzandingiz suratini saqlab qolish uchun Kid Security galereyaga kira olishi kerak";
+NSPhotoLibraryUsageDescription = "Farzandingiz suratini olish qolish uchun Kid Security galereyaga kira olishi kerak";
+NSUserTrackingUsageDescription = "Sizning ma'lumotlaringiz reklama samaradorligini o'lchash uchun ishlatiladi";

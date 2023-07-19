@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">Kid Security</string>
+  <string name="abc_sos_pressed">Ребёнок нажал SOS</string>
+  <string name="abc_go_to_map">Перейти на карту</string>
+  <string name="abc_push_connect_child">Подключите ребёнка</string>
+  <string name="abc_push_to_know_where_he">Чтобы знать где он находится и</string>
+  <string name="abc_push_in_case_of_danger">в случае опасности прийти на помощь.</string>
+  <string name="abc_push_action_later">Позже</string>
+  <string name="abc_push_action_now">Подключить</string>
+</resources>

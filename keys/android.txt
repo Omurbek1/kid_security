@@ -1,0 +1,3 @@
+keyAlias 'sirius'
+keyPassword 'sirius2017'
+storePassword 'sirius2017'

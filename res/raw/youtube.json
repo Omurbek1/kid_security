@@ -1,0 +1,595 @@
+{
+  "huawei": {
+    "os8": {
+      "ru": "JtcfIKLU9lo",
+      "kz": "JtcfIKLU9lo",
+      "uk": "JtcfIKLU9lo",
+      "uz": "JtcfIKLU9lo",
+      "en": "5AcXXwBlF7A",
+      "fr": "ixGxfbHFabk",
+      "de": "sSe8SBoJcp8",
+      "it": "Ii2OEgK2hOM",
+      "pl": "quYYF1mBjPU"
+    },
+    "os9": {
+      "ru": "BY_Typng7mM",
+      "kz": "BY_Typng7mM",
+      "uk": "BY_Typng7mM",
+      "uz": "BY_Typng7mM",
+      "en": "evfWc0fCOl4",
+      "fr": "n289BydVFws",
+      "de": "78Cz7NY5EZo",
+      "it": "YD35QpuB2E8",
+      "pl": "CmpbusjaU4w"
+    },
+    "os10": {
+      "ru": "y0xWX-hBYik",
+      "kz": "y0xWX-hBYik",
+      "uk": "y0xWX-hBYik",
+      "uz": "y0xWX-hBYik",
+      "en": "Mz9vxKtkbdc",
+      "fr": "vxBFl47_uOU",
+      "de": "HCSMsTtQPEU",
+      "it": "_8LjuYpVx5I",
+      "pl": "xgUSessltmI"
+    }
+  },
+  "honor": {
+    "os7": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os8": {
+      "ru": "D-Fk3HXke3o",
+      "kz": "D-Fk3HXke3o",
+      "uk": "D-Fk3HXke3o",
+      "uz": "D-Fk3HXke3o",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "4asNlk9Fitc",
+      "kz": "4asNlk9Fitc",
+      "uk": "4asNlk9Fitc",
+      "uz": "4asNlk9Fitc",
+      "en": "73keouUgoGY",
+      "fr": "d3fqvDlZvR4",
+      "de": "fUx1Kd7mS1I",
+      "it": "GL7anrBzQBU",
+      "pl": "Zm7nrNzxvOI"
+    },
+    "os10": {
+      "ru": "4asNlk9Fitc",
+      "kz": "4asNlk9Fitc",
+      "uk": "4asNlk9Fitc",
+      "uz": "4asNlk9Fitc",
+      "en": "73keouUgoGY",
+      "fr": "d3fqvDlZvR4",
+      "de": "fUx1Kd7mS1I",
+      "it": "GL7anrBzQBU",
+      "pl": "Zm7nrNzxvOI"
+    }
+  },
+  "nokia": {
+    "os8": {
+      "ru": "GWJjH9ezYjo",
+      "kz": "GWJjH9ezYjo",
+      "uk": "GWJjH9ezYjo",
+      "uz": "GWJjH9ezYjo",
+      "en": "jpgkiQSGQ_c",
+      "fr": "m68vpoRD0g0",
+      "de": "JEBnsmv-epo",
+      "it": "lt-1i1dciAU",
+      "pl": "p2WWRgaAxqc"
+    },
+    "os9": {
+      "ru": "GWJjH9ezYjo",
+      "kz": "GWJjH9ezYjo",
+      "uk": "GWJjH9ezYjo",
+      "uz": "GWJjH9ezYjo",
+      "en": "jpgkiQSGQ_c",
+      "fr": "m68vpoRD0g0",
+      "de": "JEBnsmv-epo",
+      "it": "lt-1i1dciAU",
+      "pl": "p2WWRgaAxqc"
+    },
+    "os10": {
+      "ru": "GWJjH9ezYjo",
+      "kz": "GWJjH9ezYjo",
+      "uk": "GWJjH9ezYjo",
+      "uz": "GWJjH9ezYjo",
+      "en": "jpgkiQSGQ_c",
+      "fr": "m68vpoRD0g0",
+      "de": "JEBnsmv-epo",
+      "it": "lt-1i1dciAU",
+      "pl": "p2WWRgaAxqc"
+    }
+  },
+  "oppo": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "-nwfpRwWZPw",
+      "kz": "-nwfpRwWZPw",
+      "uk": "-nwfpRwWZPw",
+      "uz": "-nwfpRwWZPw",
+      "en": "o9547O94tvY",
+      "fr": "hTZwHZcpvtE",
+      "de": "XJRj59QaRiQ",
+      "it": "T03wqIjYZTo",
+      "pl": "-nwfpRwWZPw"
+    },
+    "os10": {
+      "ru": "w4_on2rhavY",
+      "kz": "w4_on2rhavY",
+      "uk": "w4_on2rhavY",
+      "uz": "w4_on2rhavY",
+      "en": "ZZjjubIdhPA",
+      "fr": "3QCedOAHWe4",
+      "de": "v-MyUeTqvTA",
+      "it": "6b66xrIaPa4",
+      "pl": "82YSaJC-xng"
+    }
+  },
+  "realmi": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "-nwfpRwWZPw",
+      "kz": "-nwfpRwWZPw",
+      "uk": "-nwfpRwWZPw",
+      "uz": "-nwfpRwWZPw",
+      "en": "o9547O94tvY",
+      "fr": "hTZwHZcpvtE",
+      "de": "XJRj59QaRiQ",
+      "it": "T03wqIjYZTo",
+      "pl": "-nwfpRwWZPw"
+    },
+    "os10": {
+      "ru": "w4_on2rhavY",
+      "kz": "w4_on2rhavY",
+      "uk": "w4_on2rhavY",
+      "uz": "w4_on2rhavY",
+      "en": "ZZjjubIdhPA",
+      "fr": "3QCedOAHWe4",
+      "de": "v-MyUeTqvTA",
+      "it": "6b66xrIaPa4",
+      "pl": "82YSaJC-xng"
+    }
+  },
+  "vivo": {
+    "os8": {
+      "ru": "lFfaFn0mUv0",
+      "kz": "lFfaFn0mUv0",
+      "uk": "lFfaFn0mUv0",
+      "uz": "lFfaFn0mUv0",
+      "en": "co55c-k0xyc",
+      "fr": "4XGP9iL5xsE",
+      "de": "AkT4-beqfmk",
+      "it": "tyCA7M9EAMg",
+      "pl": "o9OMbUlK0MU"
+    },
+    "os9": {
+      "ru": "0c3AXIKYlss",
+      "kz": "0c3AXIKYlss",
+      "uk": "0c3AXIKYlss",
+      "uz": "0c3AXIKYlss",
+      "en": "uXYEiZjZWvQ",
+      "fr": "Yrb8qjuXTZc",
+      "de": "iO3jdNsCIx4",
+      "it": "WdTyIKY4e1o",
+      "pl": "UKo6QCj2LLQ"
+    },
+    "os10": {
+      "ru": "0c3AXIKYlss",
+      "kz": "0c3AXIKYlss",
+      "uk": "0c3AXIKYlss",
+      "uz": "0c3AXIKYlss",
+      "en": "uXYEiZjZWvQ",
+      "fr": "Yrb8qjuXTZc",
+      "de": "iO3jdNsCIx4",
+      "it": "WdTyIKY4e1o",
+      "pl": "UKo6QCj2LLQ"
+    },
+    "os11": {
+      "ru": "3iRLMLgcTnc",
+      "kz": "3iRLMLgcTnc",
+      "uk": "3iRLMLgcTnc",
+      "uz": "3iRLMLgcTnc",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "xiaomi": {
+    "os8": {
+      "ru": "hGPjhjhlKdw",
+      "kz": "hGPjhjhlKdw",
+      "uk": "hGPjhjhlKdw",
+      "uz": "hGPjhjhlKdw",
+      "en": "HSQ8F2VqXb0",
+      "fr": "1uqhaivmzsw",
+      "de": "yBPbQZ422Ak",
+      "it": "Fdlm8sSsUQ0",
+      "pl": "FHHwTvdlIUI"
+    },
+    "os9": {
+      "ru": "hGPjhjhlKdw",
+      "kz": "hGPjhjhlKdw",
+      "uk": "hGPjhjhlKdw",
+      "uz": "hGPjhjhlKdw",
+      "en": "HSQ8F2VqXb0",
+      "fr": "1uqhaivmzsw",
+      "de": "yBPbQZ422Ak",
+      "it": "Fdlm8sSsUQ0",
+      "pl": "FHHwTvdlIUI"
+    },
+    "os10": {
+      "ru": "hGPjhjhlKdw",
+      "kz": "hGPjhjhlKdw",
+      "uk": "hGPjhjhlKdw",
+      "uz": "hGPjhjhlKdw",
+      "en": "HSQ8F2VqXb0",
+      "fr": "1uqhaivmzsw",
+      "de": "yBPbQZ422Ak",
+      "it": "Fdlm8sSsUQ0",
+      "pl": "FHHwTvdlIUI"
+    }
+  },
+  "samsung": {
+    "os8": {
+      "ru": "Eb1G4x-CRIE",
+      "kz": "Eb1G4x-CRIE",
+      "uk": "Eb1G4x-CRIE",
+      "uz": "Eb1G4x-CRIE",
+      "en": "gObOJRCSRdc",
+      "fr": "Y4bt9KRGKgY",
+      "de": "kYSSC0qIHvU",
+      "it": "A10ASQjlFSs",
+      "pl": "cooeDlj5V_4"
+    },
+    "os9": {
+      "ru": "JlFWmtFVA84",
+      "kz": "JlFWmtFVA84",
+      "uk": "JlFWmtFVA84",
+      "uz": "JlFWmtFVA84",
+      "en": "BLBdSwNBOxQ",
+      "fr": "rhBJVIKzkdE",
+      "de": "vuZEyOySqD8",
+      "it": "YzDQwj1jPE0",
+      "pl": "d5fJPNkbTLU"
+    },
+    "os10": {
+      "ru": "JlFWmtFVA84",
+      "kz": "JlFWmtFVA84",
+      "uk": "JlFWmtFVA84",
+      "uz": "JlFWmtFVA84",
+      "en": "BLBdSwNBOxQ",
+      "fr": "rhBJVIKzkdE",
+      "de": "vuZEyOySqD8",
+      "it": "YzDQwj1jPE0",
+      "pl": "d5fJPNkbTLU"
+    },
+    "os11": {
+      "ru": "JlFWmtFVA84",
+      "kz": "JlFWmtFVA84",
+      "uk": "JlFWmtFVA84",
+      "uz": "JlFWmtFVA84",
+      "en": "BLBdSwNBOxQ",
+      "fr": "rhBJVIKzkdE",
+      "de": "vuZEyOySqD8",
+      "it": "YzDQwj1jPE0",
+      "pl": "d5fJPNkbTLU"
+    }
+  },
+  "meizu": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "bq": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "asus": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "motorola": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "lenovo": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "zte": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "lg": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  },
+  "sony": {
+    "os8": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os9": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    },
+    "os10": {
+      "ru": "",
+      "kz": "",
+      "uk": "",
+      "uz": "",
+      "en": "",
+      "fr": "",
+      "de": "",
+      "it": "",
+      "pl": ""
+    }
+  }
+}

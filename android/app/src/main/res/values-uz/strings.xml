@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Bola SOS-ni bosdi</string>
+  <string name="abc_go_to_map">Xaritaga o\'tish</string>
+  <string name="abc_push_connect_child">Bolani ulang</string>
+  <string name="abc_push_to_know_where_he">Uning qaerdaligin bilishi va</string>
+  <string name="abc_push_in_case_of_danger">xavf tug\'ilganda yordamga kelish uchun.</string>
+  <string name="abc_push_action_later">Keyinroq</string>
+  <string name="abc_push_action_now">Ulash</string>
+</resources>

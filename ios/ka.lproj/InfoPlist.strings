@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security-ს სჭირდება კამერაზე წვდომა ბავშვის სურათის გადასაღებად";
+NSLocationWhenInUseUsageDescription = "Kid Security საჭიროებს წვდომას მდებარეობაზე, რათა დაადგინოს გეოზონა 'სახლი'";
+NSMicrophoneUsageDescription = "Kid Security საჭიროებს მიკროფონზე წვდომას ხმოვანი შეტყობინებების გასაგზავნად";
+NSPhotoLibraryAddUsageDescription = "Kid Security სჭირდება წვდომა გალერეაზე ბავშვის ფოტოს შესანახად";
+NSPhotoLibraryUsageDescription = "Kid Security სჭირდება წვდომა გალერეაზე ბავშვის ფოტოს მისაღებად";
+NSUserTrackingUsageDescription = "თქვენი მონაცემები გამოყენებული იქნება რეკლამის ეფექტურობის გასაზომად";

@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Potreban je pristup kameri za fotografiranje djeteta";
+NSLocationWhenInUseUsageDescription = "Potreban je pristup lokaciji za određivanje geozone Dom";
+NSMicrophoneUsageDescription = "Potreban je pristup mikrofonu za slanje glasovnih poruka";
+NSPhotoLibraryAddUsageDescription = "Potreban je pristup galeriji za sačuvanje fotografije djeteta";
+NSPhotoLibraryUsageDescription = "Potreban je pristup kameri za fotografiranje djeteta";
+NSUserTrackingUsageDescription = "Vaši podaci će se koristiti za mjerenje učinkovitosti oglašavanja";

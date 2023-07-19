@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Дитина натиснула SOS</string>
+  <string name="abc_go_to_map">Перейти на мапу</string>
+  <string name="abc_push_connect_child">Підключіть дитину</string>
+  <string name="abc_push_to_know_where_he">Щоб знати, де вона знаходиться та</string>
+  <string name="abc_push_in_case_of_danger">У випадку небезпеки прийти на допомогу.</string>
+  <string name="abc_push_action_later">Пізніше</string>
+  <string name="abc_push_action_now">Підключити</string>
+</resources>

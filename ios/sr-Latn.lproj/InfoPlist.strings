@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security je neophodan pristup kameri za primanje snimaka deteta";
+NSLocationWhenInUseUsageDescription = "Kid Security je neophodan pristup geolokaciji za određivanje geozone Kuća";
+NSMicrophoneUsageDescription = "Kid Security je neophodan pristup mikrofonu za slanje glasovnih poruka";
+NSPhotoLibraryAddUsageDescription = "Kid Security je neophodan pristup galeriji za čuvanje slika deteta";
+NSPhotoLibraryUsageDescription = "Kid Security je neophodan pristup galeriji za primanje slika deteta";
+NSUserTrackingUsageDescription = "Vaši podaci će se koristiti za mjerenje efikasnosti oglašavanja";

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">SOS ضغط الطفل على </string>
+  <string name="abc_go_to_map">إذهب إلى الخارطة</string>
+  <string name="abc_push_connect_child">قم بتوصيل طفلك</string>
+  <string name="abc_push_to_know_where_he">لمعرفة أين يتواجد و</string>
+  <string name="abc_push_in_case_of_danger">في حالة الخطر، القدوم لإنقاذه</string>
+  <string name="abc_push_action_later">لاحقاً</string>
+  <string name="abc_push_action_now">توصيل</string>
+</resources>

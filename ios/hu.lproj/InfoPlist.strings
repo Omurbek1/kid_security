@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "A Kid Security-nek hozzá kell férnie a kamerához, hogy fényképet készítsen a gyermekről";
+NSLocationWhenInUseUsageDescription = "A Kid Securit-nek hozzá kell férnie a helymeghatározáshoz, hogy meghatározza az Otthon geoterületét";
+NSMicrophoneUsageDescription = "A Kid Security-nek mikrofon-hozzáférésre van szüksége hangüzenetek küldéséhez";
+NSPhotoLibraryAddUsageDescription = "A Kid Security-nek hozzá kell férnie a galériához, hogy fotó elmetse a gyermekről készült fotót";
+NSPhotoLibraryUsageDescription = "A Kid Security-nek hozzá kell férnie a galériához, hogy fotót kapjon a gyermekről";
+NSUserTrackingUsageDescription = "Adatait a hirdetési hatékonyság mérésére használjuk fel";

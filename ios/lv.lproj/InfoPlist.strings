@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Ir nepieciešama piekļuve kamerai, lai iegūtu bērna fotoattēlu";
+NSLocationWhenInUseUsageDescription = "Ir nepieciešama piekļuve atrašanās vietai, lai noteiktu ģeozonu Mājas";
+NSMicrophoneUsageDescription = "Ir nepieciešama piekļuve mikrofonam, lai nosūtītu balss ziņas";
+NSPhotoLibraryAddUsageDescription = "Ir nepieciešama piekļuve galerijai, lai saglabātu bērna fotoattēlu";
+NSPhotoLibraryUsageDescription = "Ir nepieciešama piekļuve galerijai, lai iegūtu bērna fotoattēlu";
+NSUserTrackingUsageDescription = "Jūsu dati tiks izmantoti reklāmas efektivitātes mērīšanai";

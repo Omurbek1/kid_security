@@ -1,0 +1,6 @@
+NSCameraUsageDescription="Баланың суретін алуы үшін Kid Security-ге камераға кіру қажет";
+NSLocationWhenInUseUsageDescription="Үй геозонасын анықтауы үшін Kid Security-ге орналасқан орынға кіру қажет";
+NSMicrophoneUsageDescription="Дауыстық хабарламаларды жіберуі үшін Kid Security-ге микрофонға кіру қажет";
+NSPhotoLibraryAddUsageDescription="Баланың суретін сақтауы үшін Kid Security-ге галереяға кіру қажет";
+NSPhotoLibraryUsageDescription="Баланың фотосын алуы үшін Kid Security-ге галереяға кіру қажет";
+NSUserTrackingUsageDescription="Сіздің деректеріңіз жарнама тиімділігін өлшеу үшін пайдаланылады";

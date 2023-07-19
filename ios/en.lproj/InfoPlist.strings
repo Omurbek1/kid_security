@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security needs access to the camera to take a picture of a child";
+NSLocationWhenInUseUsageDescription = "Kid Security needs access to the location to determine the place Home";
+NSMicrophoneUsageDescription = "Kid Security needs access to the microphone to send voice messages";
+NSPhotoLibraryAddUsageDescription = "Kid Security needs access to the gallery to save the child's photo";
+NSPhotoLibraryUsageDescription = "Kid Security needs access to the gallery to access the child's photo";
+NSUserTrackingUsageDescription = "Your data will be used to measure advertising efficiency";

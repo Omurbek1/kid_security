@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Необходим е достъп до камерата, за да получите снимка на детето си";
+NSLocationWhenInUseUsageDescription = "Необходим е достъп до местоположението за определянето на геозоната „Вкъщи“";
+NSMicrophoneUsageDescription = "Необходим е достъп до микрофона за изпращане на гласови съобщения";
+NSPhotoLibraryAddUsageDescription = "Необходим е достъп до галерията, за запазване на снимката на детето";
+NSPhotoLibraryUsageDescription = "Необходим е достъп до галерията, за получаване на снимката на детето";
+NSUserTrackingUsageDescription = "Вашите данни ще бъдат използвани за измерване на рекламната ефективност";

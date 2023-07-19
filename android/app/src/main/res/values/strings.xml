@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="app_name">Kid Security</string>
+  <string name="abc_sos_pressed">The child has pressed the SOS</string>
+  <string name="abc_go_to_map">Go to map</string>
+  <string name="abc_push_connect_child">Connect the child</string>
+  <string name="abc_push_to_know_where_he">To know where he is and</string>
+  <string name="abc_push_in_case_of_danger">in case of danger to help.</string>
+  <string name="abc_push_action_later">Later</string>
+  <string name="abc_push_action_now">Connect</string>
+</resources>

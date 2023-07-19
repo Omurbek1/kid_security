@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 123" width="60" height="123">
+	<title>line-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="17.5" y1="27" x2="17.5" y2="97" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#35d287"/>
+			<stop offset="1" stop-color="#d9d9d9" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #35d287 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: url(#g1) } 
+		.s3 { fill: #dfdfdf } 
+	</style>
+	<path id="Layer" class="s0" d="m18 28c-7.7 0-14-6.3-14-14c0-7.7 6.3-14 14-14c7.7 0 14 6.3 14 14c0 7.7-6.3 14-14 14z" />
+	<path id="Layer" class="s1" d="m24.9 9.6q0.1 0.2 0.1 0.4q0 0.2-0.1 0.4q-0.1 0.2-0.2 0.3l-8.1 8q-0.2 0.1-0.4 0.2q-0.2 0.1-0.4 0.1q-0.2 0-0.3-0.1q-0.2-0.1-0.4-0.2l-3.8-3.7q-0.1-0.2-0.2-0.4q-0.1-0.1-0.1-0.3q0-0.2 0.1-0.4q0-0.2 0.2-0.4q0.1-0.1 0.3-0.2q0.2-0.1 0.4-0.1q0.2 0 0.4 0.1q0.2 0.1 0.3 0.2l3.1 3.1l7.5-7.3q0.1-0.1 0.3-0.2q0.2-0.1 0.4-0.1q0.2 0 0.4 0.1q0.1 0.1 0.3 0.2q0.1 0.1 0.2 0.3z" />
+	<path id="Layer" class="s2" d="m15 27h5v70h-5z" />
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m4 99c0-7.7 6.3-14 14-14c7.7 0 14 6.3 14 14c0 7.7-6.3 14-14 14c-7.7 0-14-6.3-14-14zm14 7c3.9 0 7-3.1 7-7c0-3.9-3.1-7-7-7c-3.9 0-7 3.1-7 7c0 3.9 3.1 7 7 7z" />
+</svg>

@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "الوصول ضروري إلى الكاميرا لالتقاط صورة للطفل Kidsecurity";
+NSLocationWhenInUseUsageDescription = "الوصول ضروري إلى مكان التواجد لتحديد موقع المنزل Kidsecurity";
+NSMicrophoneUsageDescription = "الوصول ضروري إلى المايكروفون لإرسال رسائل صوتية Kidsecurity";
+NSPhotoLibraryAddUsageDescription = "الوصول ضروري إلى المعرض لحفظ صورة الطفل Kidsecurity";
+NSPhotoLibraryUsageDescription = "الوصول ضروري إلى المعرض للحصول على صورة الطفل Kidsecurity";
+NSUserTrackingUsageDescription = "سيتم استخدام بياناتك لقياس كفاءة الإعلان";

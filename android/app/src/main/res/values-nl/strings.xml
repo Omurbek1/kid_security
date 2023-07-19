@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Het kind drukte op SOS</string>
+  <string name="abc_go_to_map">Ga naar de kaart</string>
+  <string name="abc_push_connect_child">Verbind het kind</string>
+  <string name="abc_push_to_know_where_he">Om te weten waar hij of zij is en</string>
+  <string name="abc_push_in_case_of_danger">te hulp schieten in geval van gevaar.</string>
+  <string name="abc_push_action_later">Later</string>
+  <string name="abc_push_action_now">Verbinden</string>
+</resources>

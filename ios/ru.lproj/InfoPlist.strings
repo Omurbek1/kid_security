@@ -1,0 +1,6 @@
+NSCameraUsageDescription="Kid Security необходим доступ к камере для получения снимка ребенка";
+NSLocationWhenInUseUsageDescription="Kid Security необходим доступ к местоположению для определения геозоны Дом";
+NSMicrophoneUsageDescription="Kid Security необходим доступ к микрофону для отправки голосовых сообщений";
+NSPhotoLibraryAddUsageDescription="Kid Security необходим доступ к галерее для сохранения фото ребенка";
+NSPhotoLibraryUsageDescription="Kid Security необходим доступ к галерее для получения фото ребенка";
+NSUserTrackingUsageDescription="Ваши данные будут использоваться для измерения эффективности рекламы";

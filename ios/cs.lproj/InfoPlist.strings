@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security potřebuje přístup ke kameře pro získání snímku dítěte";
+NSLocationWhenInUseUsageDescription = "Kid Security potřebuje přístup k poloze pro zjištění místa Dům";
+NSMicrophoneUsageDescription = "Kid Security potřebuje přístup k mikrofonu pro odeslání hlasových zpráv";
+NSPhotoLibraryAddUsageDescription = "Kid Security potřebuje přístup ke galerii pro uložení fotografie dítěte";
+NSPhotoLibraryUsageDescription = "Kid Security potřebuje přístup ke galerii pro získání fotografie dítěte";
+NSUserTrackingUsageDescription = "Vaše údaje budou použity k měření účinnosti reklamy";

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="kz.sirius.kidssecurity.SosActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/childName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="name"
+            android:textSize="24sp"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/photo"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:civ_border_width="2dp"
+            app:civ_border_color="#CCCCCC"
+            android:src="@drawable/ic_user_big"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:text="@string/abc_sos_pressed"/>
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:text="@string/abc_go_to_map"
+        android:background="@drawable/button_round"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:textColor="#FF666F"
+        android:onClick="openApp"/>
+
+</RelativeLayout>

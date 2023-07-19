@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Uşaq SOS düyməsini basıb</string>
+  <string name="abc_go_to_map">Xəritəyə keçid etmək</string>
+  <string name="abc_push_connect_child">Uşaqı qoşun</string>
+  <string name="abc_push_to_know_where_he">Onun harda olduğunu bilmək lazımdır və</string>
+  <string name="abc_push_in_case_of_danger">təhlükə sezdiyi zaman köməyə gəlmək.</string>
+  <string name="abc_push_action_later">Sonra</string>
+  <string name="abc_push_action_now">Qoşmaq</string>
+</resources>

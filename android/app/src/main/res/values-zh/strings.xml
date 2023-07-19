@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">孩子按了SOS</string>
+  <string name="abc_go_to_map">去地图</string>
+  <string name="abc_push_connect_child">连接宝贝</string>
+  <string name="abc_push_to_know_where_he">知道他在哪里和</string>
+  <string name="abc_push_in_case_of_danger">遇到危险时前来救援。</string>
+  <string name="abc_push_action_later">之后</string>
+  <string name="abc_push_action_now">接入</string>
+</resources>

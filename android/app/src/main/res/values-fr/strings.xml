@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">L’enfant a cliqué sur SOS</string>
+  <string name="abc_go_to_map">Passer à la carte</string>
+  <string name="abc_push_connect_child">Connectez l’enfant</string>
+  <string name="abc_push_to_know_where_he">Pour savoir où il se trouve et</string>
+  <string name="abc_push_in_case_of_danger">venir en aide en cas de danger.</string>
+  <string name="abc_push_action_later">Plus tard</string>
+  <string name="abc_push_action_now">Connecter</string>
+</resources>

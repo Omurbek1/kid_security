@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kid Security</string>
+    <string name="abc_sos_pressed">Бала SOS-ты басты</string>
+    <string name="abc_go_to_map">Картаға өту</string>
+    <string name="abc_push_connect_child">Баланы қосыңыз</string>
+    <string name="abc_push_to_know_where_he">Қайда екенін білу үшін және</string>
+    <string name="abc_push_in_case_of_danger">қауіпті жағдайда көмекке келу.</string>
+    <string name="abc_push_action_later">Кейінірек</string>
+    <string name="abc_push_action_now">Қосу</string>
+</resources>

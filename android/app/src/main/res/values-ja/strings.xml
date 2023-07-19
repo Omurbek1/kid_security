@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">子供はSOSを押しました</string>
+  <string name="abc_go_to_map">地図に行く</string>
+  <string name="abc_push_connect_child">子供を接続してください</string>
+  <string name="abc_push_to_know_where_he">彼がどこにいるのかを知って、</string>
+  <string name="abc_push_in_case_of_danger">そして危険な場合に救助に来ることができます。</string>
+  <string name="abc_push_action_later">後で</string>
+  <string name="abc_push_action_now">接続</string>
+</resources>

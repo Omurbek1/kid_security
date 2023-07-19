@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kidsecurity benötigt den Zugriff zur Kamera, um ein Foto des Kindes zu erhalten";
+NSLocationWhenInUseUsageDescription = "Kidsecurity benötigt den Zugriff zum Standort, um den Standort Haus zu bestimmen";
+NSMicrophoneUsageDescription = "Kidsecurity benötigt den Zugriff zum Mikrofon, um Sprachnachrichten zu senden";
+NSPhotoLibraryAddUsageDescription = "Kidsecurity benötigt den Zugriff zur Galerie, um ein Foto des Kindes zu speichern";
+NSPhotoLibraryUsageDescription = "Kidsecurity benötigt den Zugriff zur Galerie, um ein Foto des Kindes zu erhalten";
+NSUserTrackingUsageDescription = "Ihre Daten werden zur Messung der Werbeeffizienz verwendet";

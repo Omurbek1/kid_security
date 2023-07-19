@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Vaikas paspaudė SOS</string>
+  <string name="abc_go_to_map">Pereiti į žemėlapį</string>
+  <string name="abc_push_connect_child">Prijunkite vaiką</string>
+  <string name="abc_push_to_know_where_he">Norėdami žinoti, kur jis yra ir</string>
+  <string name="abc_push_in_case_of_danger">iškilus pavojui atvykti į pagalbą.</string>
+  <string name="abc_push_action_later">Vėliau</string>
+  <string name="abc_push_action_now">Prijungti</string>
+</resources>

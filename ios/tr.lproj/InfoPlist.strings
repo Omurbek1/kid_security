@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Çocuğun resmini çekebilmek için “Kidsecurity” için kameraya erişim gerekiyor";
+NSLocationWhenInUseUsageDescription = "“Ev” konumunun tespıt edebilmek için “Kidsecurity” için konuma erişim gerekiyor";
+NSMicrophoneUsageDescription = "Sesli mesaj gönderebilmek için “Kidsecurity” için mikrofona erişim gerekiyor";
+NSPhotoLibraryAddUsageDescription = "Çocuğun resmini kaydedebilmek için “Kidsecurity” için foto galeriye erişim gerekiyor";
+NSPhotoLibraryUsageDescription = "Çocuğun resmini alabilmek için “Kidsecurity” için foto galeriye erişim gerekiyor";
+NSUserTrackingUsageDescription = "Verileriniz reklam verimliliğini ölçmek için kullanılacaktır";

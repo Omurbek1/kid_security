@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kidsecurity  זקוקה לגישה למצלמה כדי לקבל תמונה של הילד";
+NSLocationWhenInUseUsageDescription = "זקוקה לגישה למיקום כדי לקבוע את המיקום(Kid Security)";
+NSMicrophoneUsageDescription = "(Kidsecurity) ק'ד סקיוריטי זקוקה לגישה למיקרופון בכדי לשלוח הודעות קוליות";
+NSPhotoLibraryAddUsageDescription = "(Kidsecurity)ק'ד סקיוריטי זקוקה לגישה לגלריה לשמירת תצלום הילדа";
+NSPhotoLibraryUsageDescription = "(Kidsecurity)ק'ד סקיוריטי זקוקה לגישה לגלריה כדי לקבל תמונה של הילד";
+NSUserTrackingUsageDescription = "הנתונים שלך ישמשו למדידת יעילות הפרסום";

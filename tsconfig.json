@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js", "jest.config.js"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@lang": ["lang/Lang"],
+      "@components": ["components"],
+      "@img": ["img"],
+      "@analytics": ["analytics"]
+    },
+    "checkJs": true
+  }
+}

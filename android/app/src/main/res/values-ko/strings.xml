@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">아이가 SOS신호를 보냈습니다</string>
+  <string name="abc_go_to_map">지도로 가기</string>
+  <string name="abc_push_connect_child">아이를 연결해주세요</string>
+  <string name="abc_push_to_know_where_he">아이의 위치를 알고 위험이 있는 경우 </string>
+  <string name="abc_push_in_case_of_danger">아이를 구할 수 있도록</string>
+  <string name="abc_push_action_later">나중에 하기</string>
+  <string name="abc_push_action_now">연결하기</string>
+</resources>

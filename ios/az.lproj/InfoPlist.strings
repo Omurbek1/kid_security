@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security Uşaqın şəklini əldə etmək üçün kameraya giriş tələb olunur";
+NSLocationWhenInUseUsageDescription = "Kid Security Məkana giriş üçün evin coğrafi sərhəddini(geozonasını) müəyyən etmək lazımdır";
+NSMicrophoneUsageDescription = "Kid Security Səsli mesaj göndərmək üçün mikrofona giriş tələb olunur";
+NSPhotoLibraryAddUsageDescription = "Kid Security Uşaqın şəklini saxlamaq üçün qalereyaya giriş tələb olunur";
+NSPhotoLibraryUsageDescription = "Kid Security Uşaqın şəklini saxlamaq üçün qalereyaya giriş tələb olunur";
+NSUserTrackingUsageDescription = "Məlumatlarınız reklamın effektivliyini ölçmək üçün istifadə olunacaq";

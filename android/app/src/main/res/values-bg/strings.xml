@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Детето натисна SOS</string>
+  <string name="abc_go_to_map">Към картата</string>
+  <string name="abc_push_connect_child">Свържете детето</string>
+  <string name="abc_push_to_know_where_he">За да знаете, къде се намира и</string>
+  <string name="abc_push_in_case_of_danger">в случай на опасност да му се притечете на помощ.</string>
+  <string name="abc_push_action_later">По-късно</string>
+  <string name="abc_push_action_now">Свързване</string>
+</resources>

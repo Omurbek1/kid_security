@@ -1,0 +1,29 @@
+{
+  "root": true,
+  "extends": ["@react-native-community", "eslint-config-prettier"],
+  "plugins": ["import", "autofix"],
+  
+  "rules": {
+   
+  
+    "import/order": [
+      "off",
+      {
+        "newlines-between": "always",
+        "groups": [["builtin", "external"], "parent", "internal"],
+        "pathGroups": [
+          {
+            "pattern": "{react,react-native}",
+            "group": "builtin"
+          },
+          { "pattern": "{@lang,@img,@analytics,@components}", "group": "external", "position": "after" },
+          { "pattern": "{../,./}", "group": "external", "position": "after" }
+        ],
+        "pathGroupsExcludedImportTypes": ["builtin"],
+        "alphabetize": {
+          "caseInsensitive": true
+        }
+      }
+    ]
+  }
+}

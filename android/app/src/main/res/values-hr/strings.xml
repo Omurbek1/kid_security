@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<resources>
+  <string name="abc_sos_pressed">Dijete je pritisnulo SOS</string>
+  <string name="abc_go_to_map">Idi na kartu</string>
+  <string name="abc_push_connect_child">Povežite bebu</string>
+  <string name="abc_push_to_know_where_he">Da zna gdje je i</string>
+  <string name="abc_push_in_case_of_danger">priskočiti u pomoć u slučaju opasnosti.</string>
+  <string name="abc_push_action_later">Kasnije</string>
+  <string name="abc_push_action_now">Povezati</string>
+</resources>

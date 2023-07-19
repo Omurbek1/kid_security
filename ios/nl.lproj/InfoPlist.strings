@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Kid Security moet toegang hebben tot de camera om een foto van het kind te krijgen";
+NSLocationWhenInUseUsageDescription = "Kid Security moet toegang hebben tot de locatie om de geofence Huis te bepalen";
+NSMicrophoneUsageDescription = "Kid Security moet toegang hebben tot de microfoon om spraakberichten te verzenden";
+NSPhotoLibraryAddUsageDescription = "Kid Security moet toegang hebben tot de galerij om een foto van het kind op te slaan";
+NSPhotoLibraryUsageDescription = "Kid Security moet toegang hebben tot de galerij om een foto van het kind te krijgen";
+NSUserTrackingUsageDescription = "Uw gegevens worden gebruikt om de advertentie-efficiëntie te meten";

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+  <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="true">192.168.0.105</domain>
+    <domain includeSubdomains="true">192.168.0.101</domain>
+    <domain includeSubdomains="true">192.168.0.100</domain>
+    <domain includeSubdomains="true">192.168.1.223</domain>
+    <domain includeSubdomains="true">192.168.1.42</domain>
+    <domain includeSubdomains="true">192.168.1.71</domain>
+    <domain includeSubdomains="true">192.168.13.111</domain>
+    <domain includeSubdomains="true">10.11.3.206</domain>
+    <domain includeSubdomains="true">127.0.0.1</domain>
+    <domain includeSubdomains="true">192.168.13.37</domain>
+    <domain includeSubdomains="true">192.168.13.23</domain>
+    <domain includeSubdomains="true">192.168.13.38</domain>
+    <domain includeSubdomains="true">gps-watch.kz</domain>
+    <domain includeSubdomains="true">gps-watch-1.kz</domain>
+    <domain includeSubdomains="true">gps-watch-2.kz</domain>
+    <domain includeSubdomains="true">kidsecurity.tech</domain>
+  </domain-config>
+</network-security-config>
